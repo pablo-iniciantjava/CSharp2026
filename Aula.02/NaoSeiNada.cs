@@ -18,4 +18,3 @@ media = (x + y) / 2.0;
 
 // Exibe o resultado da média no console, concatenando a string com o valor de media
 Console.WriteLine("Media = " + media);
-

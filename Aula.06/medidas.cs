@@ -1,4 +1,7 @@
 using static System.Console;
+try
+{
+
 // ------------------Declaração de variáveis------------------
 double A, B, C,areaQuadrado, areaRetangulo, areaTrapezio;
 
@@ -20,9 +23,14 @@ WriteLine($"Área do quadrado: {areaQuadrado}");
 WriteLine($"Área do retângulo: {areaRetangulo}");
 WriteLine($"Área do trapézio : {areaTrapezio} Medidada Final");
 
-// ------------------Formatar dados------------------
+// ------------------ TRY CATCH obs: nao pode ter um sem o outro------------------
+}
 
-
+catch (Exception)
+{
+    WriteLine("Valores inválidos inseridos, Programa encerrado");
+}
+    
 
 
 

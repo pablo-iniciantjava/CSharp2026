@@ -1,0 +1,14 @@
+C:\Proj-C#\POO\Aula-01\RetanguloComPOO\RetanguloComPOO\obj\Debug\net10.0\RetanguloComPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj-C#\POO\Aula-01\RetanguloComPOO\RetanguloComPOO\obj\Debug\net10.0\RetanguloComPOO.AssemblyInfoInputs.cache
+C:\Proj-C#\POO\Aula-01\RetanguloComPOO\RetanguloComPOO\obj\Debug\net10.0\RetanguloComPOO.AssemblyInfo.cs
+C:\Proj-C#\POO\Aula-01\RetanguloComPOO\RetanguloComPOO\obj\Debug\net10.0\RetanguloComPOO.csproj.CoreCompileInputs.cache
+C:\Proj-C#\POO\Aula-01\RetanguloComPOO\RetanguloComPOO\bin\Debug\net10.0\RetanguloComPOO.exe
+C:\Proj-C#\POO\Aula-01\RetanguloComPOO\RetanguloComPOO\bin\Debug\net10.0\RetanguloComPOO.deps.json
+C:\Proj-C#\POO\Aula-01\RetanguloComPOO\RetanguloComPOO\bin\Debug\net10.0\RetanguloComPOO.runtimeconfig.json
+C:\Proj-C#\POO\Aula-01\RetanguloComPOO\RetanguloComPOO\bin\Debug\net10.0\RetanguloComPOO.dll
+C:\Proj-C#\POO\Aula-01\RetanguloComPOO\RetanguloComPOO\bin\Debug\net10.0\RetanguloComPOO.pdb
+C:\Proj-C#\POO\Aula-01\RetanguloComPOO\RetanguloComPOO\obj\Debug\net10.0\RetanguloComPOO.dll
+C:\Proj-C#\POO\Aula-01\RetanguloComPOO\RetanguloComPOO\obj\Debug\net10.0\refint\RetanguloComPOO.dll
+C:\Proj-C#\POO\Aula-01\RetanguloComPOO\RetanguloComPOO\obj\Debug\net10.0\RetanguloComPOO.pdb
+C:\Proj-C#\POO\Aula-01\RetanguloComPOO\RetanguloComPOO\obj\Debug\net10.0\RetanguloComPOO.genruntimeconfig.cache
+C:\Proj-C#\POO\Aula-01\RetanguloComPOO\RetanguloComPOO\obj\Debug\net10.0\ref\RetanguloComPOO.dll

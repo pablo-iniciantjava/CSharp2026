@@ -1,0 +1,14 @@
+C:\Proj-C#\POO\Aula-01\ExemploComOOP\ExemploComOOP\obj\Debug\net10.0\ExemploComOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj-C#\POO\Aula-01\ExemploComOOP\ExemploComOOP\obj\Debug\net10.0\ExemploComOOP.AssemblyInfoInputs.cache
+C:\Proj-C#\POO\Aula-01\ExemploComOOP\ExemploComOOP\obj\Debug\net10.0\ExemploComOOP.AssemblyInfo.cs
+C:\Proj-C#\POO\Aula-01\ExemploComOOP\ExemploComOOP\obj\Debug\net10.0\ExemploComOOP.csproj.CoreCompileInputs.cache
+C:\Proj-C#\POO\Aula-01\ExemploComOOP\ExemploComOOP\bin\Debug\net10.0\ExemploComOOP.exe
+C:\Proj-C#\POO\Aula-01\ExemploComOOP\ExemploComOOP\bin\Debug\net10.0\ExemploComOOP.deps.json
+C:\Proj-C#\POO\Aula-01\ExemploComOOP\ExemploComOOP\bin\Debug\net10.0\ExemploComOOP.runtimeconfig.json
+C:\Proj-C#\POO\Aula-01\ExemploComOOP\ExemploComOOP\bin\Debug\net10.0\ExemploComOOP.dll
+C:\Proj-C#\POO\Aula-01\ExemploComOOP\ExemploComOOP\bin\Debug\net10.0\ExemploComOOP.pdb
+C:\Proj-C#\POO\Aula-01\ExemploComOOP\ExemploComOOP\obj\Debug\net10.0\ExemploComOOP.dll
+C:\Proj-C#\POO\Aula-01\ExemploComOOP\ExemploComOOP\obj\Debug\net10.0\refint\ExemploComOOP.dll
+C:\Proj-C#\POO\Aula-01\ExemploComOOP\ExemploComOOP\obj\Debug\net10.0\ExemploComOOP.pdb
+C:\Proj-C#\POO\Aula-01\ExemploComOOP\ExemploComOOP\obj\Debug\net10.0\ExemploComOOP.genruntimeconfig.cache
+C:\Proj-C#\POO\Aula-01\ExemploComOOP\ExemploComOOP\obj\Debug\net10.0\ref\ExemploComOOP.dll

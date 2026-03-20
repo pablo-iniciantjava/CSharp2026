@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proj-C#\\POO\\Aula-00\\Exemplo sem POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66790BDF-1C54-4673-AD88-681990255B38}|Exemplo sem POO\\Exemplo sem POO.csproj|c:\\proj-c#\\poo\\aula-00\\exemplo sem poo\\exemplo sem poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66790BDF-1C54-4673-AD88-681990255B38}|Exemplo sem POO\\Exemplo sem POO.csproj|solutionrelative:exemplo sem poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\POO\\Aula-00\\Exemplo sem POO\\Exemplo sem POO\\Program.cs",
+              "RelativeDocumentMoniker": "Exemplo sem POO\\Program.cs",
+              "ToolTip": "C:\\Proj-C#\\POO\\Aula-00\\Exemplo sem POO\\Exemplo sem POO\\Program.cs",
+              "RelativeToolTip": "Exemplo sem POO\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T22:10:16.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

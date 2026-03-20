@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proj-C#\\POO\\Aula-00\\clodoaldo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F900E43B-06F1-1E9C-6C38-5A0A76BF385A}|clodoaldo\\clodoaldo.csproj|c:\\proj-c#\\poo\\aula-00\\clodoaldo\\clodoaldo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F900E43B-06F1-1E9C-6C38-5A0A76BF385A}|clodoaldo\\clodoaldo.csproj|solutionrelative:clodoaldo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\POO\\Aula-00\\clodoaldo\\clodoaldo\\Program.cs",
+              "RelativeDocumentMoniker": "clodoaldo\\Program.cs",
+              "ToolTip": "C:\\Proj-C#\\POO\\Aula-00\\clodoaldo\\clodoaldo\\Program.cs",
+              "RelativeToolTip": "clodoaldo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T23:47:49.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

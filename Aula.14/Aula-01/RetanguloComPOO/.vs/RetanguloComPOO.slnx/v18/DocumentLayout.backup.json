@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proj-C#\\POO\\Aula-01\\RetanguloComPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBC049E-27DC-C53B-A96D-30E70C874A8D}|RetanguloComPOO\\RetanguloComPOO.csproj|c:\\proj-c#\\poo\\aula-01\\retangulocompoo\\retangulocompoo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBC049E-27DC-C53B-A96D-30E70C874A8D}|RetanguloComPOO\\RetanguloComPOO.csproj|solutionrelative:retangulocompoo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBC049E-27DC-C53B-A96D-30E70C874A8D}|RetanguloComPOO\\RetanguloComPOO.csproj|c:\\proj-c#\\poo\\aula-01\\retangulocompoo\\retangulocompoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBC049E-27DC-C53B-A96D-30E70C874A8D}|RetanguloComPOO\\RetanguloComPOO.csproj|solutionrelative:retangulocompoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\POO\\Aula-01\\RetanguloComPOO\\RetanguloComPOO\\Program.cs",
+              "RelativeDocumentMoniker": "RetanguloComPOO\\Program.cs",
+              "ToolTip": "C:\\Proj-C#\\POO\\Aula-01\\RetanguloComPOO\\RetanguloComPOO\\Program.cs",
+              "RelativeToolTip": "RetanguloComPOO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:23:44.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\POO\\Aula-01\\RetanguloComPOO\\RetanguloComPOO\\Retangulo.cs",
+              "RelativeDocumentMoniker": "RetanguloComPOO\\Retangulo.cs",
+              "ToolTip": "C:\\Proj-C#\\POO\\Aula-01\\RetanguloComPOO\\RetanguloComPOO\\Retangulo.cs",
+              "RelativeToolTip": "RetanguloComPOO\\Retangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:22:20.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

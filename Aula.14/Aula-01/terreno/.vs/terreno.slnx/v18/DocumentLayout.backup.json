@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proj-C#\\POO\\Aula-01\\terreno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C94CB31-44C4-45B4-9270-C3A885A3DFBC}|exemplo1\\exemplo1.csproj|c:\\proj-c#\\poo\\aula-01\\terreno\\exemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C94CB31-44C4-45B4-9270-C3A885A3DFBC}|exemplo1\\exemplo1.csproj|solutionrelative:exemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C94CB31-44C4-45B4-9270-C3A885A3DFBC}|exemplo1\\exemplo1.csproj|c:\\proj-c#\\poo\\aula-01\\terreno\\exemplo1\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C94CB31-44C4-45B4-9270-C3A885A3DFBC}|exemplo1\\exemplo1.csproj|solutionrelative:exemplo1\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A2AB48-542B-4CC9-932B-FE171D35AFFA}|terreno\\terreno.csproj|c:\\proj-c#\\poo\\aula-01\\terreno\\terreno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A2AB48-542B-4CC9-932B-FE171D35AFFA}|terreno\\terreno.csproj|solutionrelative:terreno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A2AB48-542B-4CC9-932B-FE171D35AFFA}|terreno\\terreno.csproj|c:\\proj-c#\\poo\\aula-01\\terreno\\terreno\\terreno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A2AB48-542B-4CC9-932B-FE171D35AFFA}|terreno\\terreno.csproj|solutionrelative:terreno\\terreno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\POO\\Aula-01\\terreno\\exemplo1\\Program.cs",
+              "RelativeDocumentMoniker": "exemplo1\\Program.cs",
+              "ToolTip": "C:\\Proj-C#\\POO\\Aula-01\\terreno\\exemplo1\\Program.cs",
+              "RelativeToolTip": "exemplo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T00:47:13.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\POO\\Aula-01\\terreno\\exemplo1\\Produto.cs",
+              "RelativeDocumentMoniker": "exemplo1\\Produto.cs",
+              "ToolTip": "C:\\Proj-C#\\POO\\Aula-01\\terreno\\exemplo1\\Produto.cs",
+              "RelativeToolTip": "exemplo1\\Produto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T00:47:07.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\POO\\Aula-01\\terreno\\terreno\\Program.cs",
+              "RelativeDocumentMoniker": "terreno\\Program.cs",
+              "ToolTip": "C:\\Proj-C#\\POO\\Aula-01\\terreno\\terreno\\Program.cs",
+              "RelativeToolTip": "terreno\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T00:46:46.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Terreno.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\POO\\Aula-01\\terreno\\terreno\\Terreno.cs",
+              "RelativeDocumentMoniker": "terreno\\Terreno.cs",
+              "ToolTip": "C:\\Proj-C#\\POO\\Aula-01\\terreno\\terreno\\Terreno.cs",
+              "RelativeToolTip": "terreno\\Terreno.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T00:46:40.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

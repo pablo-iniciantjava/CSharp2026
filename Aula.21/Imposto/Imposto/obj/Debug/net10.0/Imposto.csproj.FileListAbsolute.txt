@@ -1,0 +1,15 @@
+C:\Proj-C#\CSharp2026\Aula.21\Imposto\Imposto\bin\Debug\net10.0\Imposto.exe
+C:\Proj-C#\CSharp2026\Aula.21\Imposto\Imposto\bin\Debug\net10.0\Imposto.deps.json
+C:\Proj-C#\CSharp2026\Aula.21\Imposto\Imposto\bin\Debug\net10.0\Imposto.runtimeconfig.json
+C:\Proj-C#\CSharp2026\Aula.21\Imposto\Imposto\bin\Debug\net10.0\Imposto.dll
+C:\Proj-C#\CSharp2026\Aula.21\Imposto\Imposto\bin\Debug\net10.0\Imposto.pdb
+C:\Proj-C#\CSharp2026\Aula.21\Imposto\Imposto\obj\Debug\net10.0\Imposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj-C#\CSharp2026\Aula.21\Imposto\Imposto\obj\Debug\net10.0\Imposto.AssemblyInfoInputs.cache
+C:\Proj-C#\CSharp2026\Aula.21\Imposto\Imposto\obj\Debug\net10.0\Imposto.AssemblyInfo.cs
+C:\Proj-C#\CSharp2026\Aula.21\Imposto\Imposto\obj\Debug\net10.0\Imposto.csproj.CoreCompileInputs.cache
+C:\Proj-C#\CSharp2026\Aula.21\Imposto\Imposto\obj\Debug\net10.0\Imposto.sourcelink.json
+C:\Proj-C#\CSharp2026\Aula.21\Imposto\Imposto\obj\Debug\net10.0\Imposto.dll
+C:\Proj-C#\CSharp2026\Aula.21\Imposto\Imposto\obj\Debug\net10.0\refint\Imposto.dll
+C:\Proj-C#\CSharp2026\Aula.21\Imposto\Imposto\obj\Debug\net10.0\Imposto.pdb
+C:\Proj-C#\CSharp2026\Aula.21\Imposto\Imposto\obj\Debug\net10.0\Imposto.genruntimeconfig.cache
+C:\Proj-C#\CSharp2026\Aula.21\Imposto\Imposto\obj\Debug\net10.0\ref\Imposto.dll

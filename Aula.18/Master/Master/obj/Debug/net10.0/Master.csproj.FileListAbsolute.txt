@@ -1,0 +1,15 @@
+C:\Proj-C#\CSharp2026\Aula.18\Master\Master\bin\Debug\net10.0\Master.exe
+C:\Proj-C#\CSharp2026\Aula.18\Master\Master\bin\Debug\net10.0\Master.deps.json
+C:\Proj-C#\CSharp2026\Aula.18\Master\Master\bin\Debug\net10.0\Master.runtimeconfig.json
+C:\Proj-C#\CSharp2026\Aula.18\Master\Master\bin\Debug\net10.0\Master.dll
+C:\Proj-C#\CSharp2026\Aula.18\Master\Master\bin\Debug\net10.0\Master.pdb
+C:\Proj-C#\CSharp2026\Aula.18\Master\Master\obj\Debug\net10.0\Master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj-C#\CSharp2026\Aula.18\Master\Master\obj\Debug\net10.0\Master.AssemblyInfoInputs.cache
+C:\Proj-C#\CSharp2026\Aula.18\Master\Master\obj\Debug\net10.0\Master.AssemblyInfo.cs
+C:\Proj-C#\CSharp2026\Aula.18\Master\Master\obj\Debug\net10.0\Master.csproj.CoreCompileInputs.cache
+C:\Proj-C#\CSharp2026\Aula.18\Master\Master\obj\Debug\net10.0\Master.sourcelink.json
+C:\Proj-C#\CSharp2026\Aula.18\Master\Master\obj\Debug\net10.0\Master.dll
+C:\Proj-C#\CSharp2026\Aula.18\Master\Master\obj\Debug\net10.0\refint\Master.dll
+C:\Proj-C#\CSharp2026\Aula.18\Master\Master\obj\Debug\net10.0\Master.pdb
+C:\Proj-C#\CSharp2026\Aula.18\Master\Master\obj\Debug\net10.0\Master.genruntimeconfig.cache
+C:\Proj-C#\CSharp2026\Aula.18\Master\Master\obj\Debug\net10.0\ref\Master.dll

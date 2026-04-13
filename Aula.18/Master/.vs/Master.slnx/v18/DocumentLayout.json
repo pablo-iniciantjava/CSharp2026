@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proj-C#\\CSharp2026\\Aula.18\\Master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F6FA6E-0D23-AF84-3FFF-6B70EC282DAB}|Master\\Master.csproj|c:\\proj-c#\\csharp2026\\aula.18\\master\\master\\contapj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F6FA6E-0D23-AF84-3FFF-6B70EC282DAB}|Master\\Master.csproj|solutionrelative:master\\contapj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F6FA6E-0D23-AF84-3FFF-6B70EC282DAB}|Master\\Master.csproj|c:\\proj-c#\\csharp2026\\aula.18\\master\\master\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F6FA6E-0D23-AF84-3FFF-6B70EC282DAB}|Master\\Master.csproj|solutionrelative:master\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F6FA6E-0D23-AF84-3FFF-6B70EC282DAB}|Master\\Master.csproj|c:\\proj-c#\\csharp2026\\aula.18\\master\\master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F6FA6E-0D23-AF84-3FFF-6B70EC282DAB}|Master\\Master.csproj|solutionrelative:master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F6FA6E-0D23-AF84-3FFF-6B70EC282DAB}|Master\\Master.csproj|c:\\proj-c#\\csharp2026\\aula.18\\master\\master\\operacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F6FA6E-0D23-AF84-3FFF-6B70EC282DAB}|Master\\Master.csproj|solutionrelative:master\\operacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F6FA6E-0D23-AF84-3FFF-6B70EC282DAB}|Master\\Master.csproj|c:\\proj-c#\\csharp2026\\aula.18\\master\\master\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F6FA6E-0D23-AF84-3FFF-6B70EC282DAB}|Master\\Master.csproj|solutionrelative:master\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F6FA6E-0D23-AF84-3FFF-6B70EC282DAB}|Master\\Master.csproj|c:\\proj-c#\\csharp2026\\aula.18\\master\\master\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F6FA6E-0D23-AF84-3FFF-6B70EC282DAB}|Master\\Master.csproj|solutionrelative:master\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F6FA6E-0D23-AF84-3FFF-6B70EC282DAB}|Master\\Master.csproj|c:\\proj-c#\\csharp2026\\aula.18\\master\\master\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F6FA6E-0D23-AF84-3FFF-6B70EC282DAB}|Master\\Master.csproj|solutionrelative:master\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tipo.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\CSharp2026\\Aula.18\\Master\\Master\\Tipo.cs",
+              "RelativeDocumentMoniker": "Master\\Tipo.cs",
+              "ToolTip": "C:\\Proj-C#\\CSharp2026\\Aula.18\\Master\\Master\\Tipo.cs",
+              "RelativeToolTip": "Master\\Tipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T22:51:01.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaPJ.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\CSharp2026\\Aula.18\\Master\\Master\\ContaPJ.cs",
+              "RelativeDocumentMoniker": "Master\\ContaPJ.cs",
+              "ToolTip": "C:\\Proj-C#\\CSharp2026\\Aula.18\\Master\\Master\\ContaPJ.cs",
+              "RelativeToolTip": "Master\\ContaPJ.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T00:38:57.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContaPoupanca.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\CSharp2026\\Aula.18\\Master\\Master\\ContaPoupanca.cs",
+              "RelativeDocumentMoniker": "Master\\ContaPoupanca.cs",
+              "ToolTip": "C:\\Proj-C#\\CSharp2026\\Aula.18\\Master\\Master\\ContaPoupanca.cs",
+              "RelativeToolTip": "Master\\ContaPoupanca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T00:28:43.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operacao.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\CSharp2026\\Aula.18\\Master\\Master\\Operacao.cs",
+              "RelativeDocumentMoniker": "Master\\Operacao.cs",
+              "ToolTip": "C:\\Proj-C#\\CSharp2026\\Aula.18\\Master\\Master\\Operacao.cs",
+              "RelativeToolTip": "Master\\Operacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:54:36.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\CSharp2026\\Aula.18\\Master\\Master\\Conta.cs",
+              "RelativeDocumentMoniker": "Master\\Conta.cs",
+              "ToolTip": "C:\\Proj-C#\\CSharp2026\\Aula.18\\Master\\Master\\Conta.cs",
+              "RelativeToolTip": "Master\\Conta.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:51:49.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\CSharp2026\\Aula.18\\Master\\Master\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Master\\Pessoa.cs",
+              "ToolTip": "C:\\Proj-C#\\CSharp2026\\Aula.18\\Master\\Master\\Pessoa.cs",
+              "RelativeToolTip": "Master\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:47:30.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\CSharp2026\\Aula.18\\Master\\Master\\Program.cs",
+              "RelativeDocumentMoniker": "Master\\Program.cs",
+              "ToolTip": "C:\\Proj-C#\\CSharp2026\\Aula.18\\Master\\Master\\Program.cs",
+              "RelativeToolTip": "Master\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:44:34.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

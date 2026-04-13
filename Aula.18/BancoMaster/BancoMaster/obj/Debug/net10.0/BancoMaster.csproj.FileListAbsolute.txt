@@ -1,0 +1,15 @@
+C:\Proj-C#\CSharp2026\Aula.18\BancoMaster\BancoMaster\bin\Debug\net10.0\BancoMaster.exe
+C:\Proj-C#\CSharp2026\Aula.18\BancoMaster\BancoMaster\bin\Debug\net10.0\BancoMaster.deps.json
+C:\Proj-C#\CSharp2026\Aula.18\BancoMaster\BancoMaster\bin\Debug\net10.0\BancoMaster.runtimeconfig.json
+C:\Proj-C#\CSharp2026\Aula.18\BancoMaster\BancoMaster\bin\Debug\net10.0\BancoMaster.dll
+C:\Proj-C#\CSharp2026\Aula.18\BancoMaster\BancoMaster\bin\Debug\net10.0\BancoMaster.pdb
+C:\Proj-C#\CSharp2026\Aula.18\BancoMaster\BancoMaster\obj\Debug\net10.0\BancoMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj-C#\CSharp2026\Aula.18\BancoMaster\BancoMaster\obj\Debug\net10.0\BancoMaster.AssemblyInfoInputs.cache
+C:\Proj-C#\CSharp2026\Aula.18\BancoMaster\BancoMaster\obj\Debug\net10.0\BancoMaster.AssemblyInfo.cs
+C:\Proj-C#\CSharp2026\Aula.18\BancoMaster\BancoMaster\obj\Debug\net10.0\BancoMaster.csproj.CoreCompileInputs.cache
+C:\Proj-C#\CSharp2026\Aula.18\BancoMaster\BancoMaster\obj\Debug\net10.0\BancoMaster.sourcelink.json
+C:\Proj-C#\CSharp2026\Aula.18\BancoMaster\BancoMaster\obj\Debug\net10.0\BancoMaster.dll
+C:\Proj-C#\CSharp2026\Aula.18\BancoMaster\BancoMaster\obj\Debug\net10.0\refint\BancoMaster.dll
+C:\Proj-C#\CSharp2026\Aula.18\BancoMaster\BancoMaster\obj\Debug\net10.0\BancoMaster.pdb
+C:\Proj-C#\CSharp2026\Aula.18\BancoMaster\BancoMaster\obj\Debug\net10.0\BancoMaster.genruntimeconfig.cache
+C:\Proj-C#\CSharp2026\Aula.18\BancoMaster\BancoMaster\obj\Debug\net10.0\ref\BancoMaster.dll

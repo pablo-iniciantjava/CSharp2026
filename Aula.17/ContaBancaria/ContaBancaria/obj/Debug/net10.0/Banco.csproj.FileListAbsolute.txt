@@ -1,0 +1,15 @@
+C:\Proj-C#\CSharp2026\Aula.17\ContaBancaria\ContaBancaria\obj\Debug\net10.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj-C#\CSharp2026\Aula.17\ContaBancaria\ContaBancaria\obj\Debug\net10.0\Banco.AssemblyInfoInputs.cache
+C:\Proj-C#\CSharp2026\Aula.17\ContaBancaria\ContaBancaria\obj\Debug\net10.0\Banco.AssemblyInfo.cs
+C:\Proj-C#\CSharp2026\Aula.17\ContaBancaria\ContaBancaria\obj\Debug\net10.0\Banco.csproj.CoreCompileInputs.cache
+C:\Proj-C#\CSharp2026\Aula.17\ContaBancaria\ContaBancaria\obj\Debug\net10.0\Banco.sourcelink.json
+C:\Proj-C#\CSharp2026\Aula.17\ContaBancaria\ContaBancaria\bin\Debug\net10.0\Banco.exe
+C:\Proj-C#\CSharp2026\Aula.17\ContaBancaria\ContaBancaria\bin\Debug\net10.0\Banco.deps.json
+C:\Proj-C#\CSharp2026\Aula.17\ContaBancaria\ContaBancaria\bin\Debug\net10.0\Banco.runtimeconfig.json
+C:\Proj-C#\CSharp2026\Aula.17\ContaBancaria\ContaBancaria\bin\Debug\net10.0\Banco.dll
+C:\Proj-C#\CSharp2026\Aula.17\ContaBancaria\ContaBancaria\bin\Debug\net10.0\Banco.pdb
+C:\Proj-C#\CSharp2026\Aula.17\ContaBancaria\ContaBancaria\obj\Debug\net10.0\Banco.dll
+C:\Proj-C#\CSharp2026\Aula.17\ContaBancaria\ContaBancaria\obj\Debug\net10.0\refint\Banco.dll
+C:\Proj-C#\CSharp2026\Aula.17\ContaBancaria\ContaBancaria\obj\Debug\net10.0\Banco.pdb
+C:\Proj-C#\CSharp2026\Aula.17\ContaBancaria\ContaBancaria\obj\Debug\net10.0\Banco.genruntimeconfig.cache
+C:\Proj-C#\CSharp2026\Aula.17\ContaBancaria\ContaBancaria\obj\Debug\net10.0\ref\Banco.dll

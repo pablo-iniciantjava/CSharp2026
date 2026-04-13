@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proj-C#\\POO\\Aula-01\\RetanguloComPOO\\RetanguloComPOO\\RetanguloComPOO.csproj": {}
+    "C:\\Proj-C#\\CSharp2026\\Aula.14\\Aula-01\\RetanguloComPOO\\RetanguloComPOO\\RetanguloComPOO.csproj": {}
   },
   "projects": {
-    "C:\\Proj-C#\\POO\\Aula-01\\RetanguloComPOO\\RetanguloComPOO\\RetanguloComPOO.csproj": {
+    "C:\\Proj-C#\\CSharp2026\\Aula.14\\Aula-01\\RetanguloComPOO\\RetanguloComPOO\\RetanguloComPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proj-C#\\POO\\Aula-01\\RetanguloComPOO\\RetanguloComPOO\\RetanguloComPOO.csproj",
+        "projectUniqueName": "C:\\Proj-C#\\CSharp2026\\Aula.14\\Aula-01\\RetanguloComPOO\\RetanguloComPOO\\RetanguloComPOO.csproj",
         "projectName": "RetanguloComPOO",
-        "projectPath": "C:\\Proj-C#\\POO\\Aula-01\\RetanguloComPOO\\RetanguloComPOO\\RetanguloComPOO.csproj",
+        "projectPath": "C:\\Proj-C#\\CSharp2026\\Aula.14\\Aula-01\\RetanguloComPOO\\RetanguloComPOO\\RetanguloComPOO.csproj",
         "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-        "outputPath": "C:\\Proj-C#\\POO\\Aula-01\\RetanguloComPOO\\RetanguloComPOO\\obj\\",
+        "outputPath": "C:\\Proj-C#\\CSharp2026\\Aula.14\\Aula-01\\RetanguloComPOO\\RetanguloComPOO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Proj-C#\CSharp2026\Banco de Dados\Aula.01\Locadora\Locadora\obj\Debug\net10.0\Locadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj-C#\CSharp2026\Banco de Dados\Aula.01\Locadora\Locadora\obj\Debug\net10.0\Locadora.AssemblyInfoInputs.cache
+C:\Proj-C#\CSharp2026\Banco de Dados\Aula.01\Locadora\Locadora\obj\Debug\net10.0\Locadora.AssemblyInfo.cs
+C:\Proj-C#\CSharp2026\Banco de Dados\Aula.01\Locadora\Locadora\obj\Debug\net10.0\Locadora.csproj.CoreCompileInputs.cache
+C:\Proj-C#\CSharp2026\Banco de Dados\Aula.01\Locadora\Locadora\obj\Debug\net10.0\Locadora.sourcelink.json
+C:\Proj-C#\CSharp2026\Banco de Dados\Aula.01\Locadora\Locadora\bin\Debug\net10.0\Locadora.exe
+C:\Proj-C#\CSharp2026\Banco de Dados\Aula.01\Locadora\Locadora\bin\Debug\net10.0\Locadora.deps.json
+C:\Proj-C#\CSharp2026\Banco de Dados\Aula.01\Locadora\Locadora\bin\Debug\net10.0\Locadora.runtimeconfig.json
+C:\Proj-C#\CSharp2026\Banco de Dados\Aula.01\Locadora\Locadora\bin\Debug\net10.0\Locadora.dll
+C:\Proj-C#\CSharp2026\Banco de Dados\Aula.01\Locadora\Locadora\bin\Debug\net10.0\Locadora.pdb
+C:\Proj-C#\CSharp2026\Banco de Dados\Aula.01\Locadora\Locadora\obj\Debug\net10.0\Locadora.dll
+C:\Proj-C#\CSharp2026\Banco de Dados\Aula.01\Locadora\Locadora\obj\Debug\net10.0\refint\Locadora.dll
+C:\Proj-C#\CSharp2026\Banco de Dados\Aula.01\Locadora\Locadora\obj\Debug\net10.0\Locadora.pdb
+C:\Proj-C#\CSharp2026\Banco de Dados\Aula.01\Locadora\Locadora\obj\Debug\net10.0\Locadora.genruntimeconfig.cache
+C:\Proj-C#\CSharp2026\Banco de Dados\Aula.01\Locadora\Locadora\obj\Debug\net10.0\ref\Locadora.dll

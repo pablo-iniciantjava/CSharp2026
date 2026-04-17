@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Imposto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+838a8f0ddebab6078787b3415f68fb99a4377308")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f32e857dce6aefb94d9de13daf40d21128384a74")]
 [assembly: System.Reflection.AssemblyProductAttribute("Imposto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Imposto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

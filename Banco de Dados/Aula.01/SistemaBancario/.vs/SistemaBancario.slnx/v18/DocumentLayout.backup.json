@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proj-C#\\CSharp2026\\Banco de Dados\\Aula.01\\SistemaBancario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{348B51DD-FD72-5D24-06D9-C0833247AD00}|SistemaBancario\\SistemaBancario.csproj|c:\\proj-c#\\csharp2026\\banco de dados\\aula.01\\sistemabancario\\sistemabancario\\classes\\contexto\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348B51DD-FD72-5D24-06D9-C0833247AD00}|SistemaBancario\\SistemaBancario.csproj|solutionrelative:sistemabancario\\classes\\contexto\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348B51DD-FD72-5D24-06D9-C0833247AD00}|SistemaBancario\\SistemaBancario.csproj|c:\\proj-c#\\csharp2026\\banco de dados\\aula.01\\sistemabancario\\sistemabancario\\classes\\entidades\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348B51DD-FD72-5D24-06D9-C0833247AD00}|SistemaBancario\\SistemaBancario.csproj|solutionrelative:sistemabancario\\classes\\entidades\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348B51DD-FD72-5D24-06D9-C0833247AD00}|SistemaBancario\\SistemaBancario.csproj|c:\\proj-c#\\csharp2026\\banco de dados\\aula.01\\sistemabancario\\sistemabancario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348B51DD-FD72-5D24-06D9-C0833247AD00}|SistemaBancario\\SistemaBancario.csproj|solutionrelative:sistemabancario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348B51DD-FD72-5D24-06D9-C0833247AD00}|SistemaBancario\\SistemaBancario.csproj|c:\\proj-c#\\csharp2026\\banco de dados\\aula.01\\sistemabancario\\sistemabancario\\sistemabancario.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{348B51DD-FD72-5D24-06D9-C0833247AD00}|SistemaBancario\\SistemaBancario.csproj|solutionrelative:sistemabancario\\sistemabancario.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SistemaBancario",
+              "DocumentMoniker": "C:\\Proj-C#\\CSharp2026\\Banco de Dados\\Aula.01\\SistemaBancario\\SistemaBancario\\SistemaBancario.csproj",
+              "RelativeDocumentMoniker": "SistemaBancario\\SistemaBancario.csproj",
+              "ToolTip": "C:\\Proj-C#\\CSharp2026\\Banco de Dados\\Aula.01\\SistemaBancario\\SistemaBancario\\SistemaBancario.csproj",
+              "RelativeToolTip": "SistemaBancario\\SistemaBancario.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-16T00:27:53.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\CSharp2026\\Banco de Dados\\Aula.01\\SistemaBancario\\SistemaBancario\\Classes\\Contexto\\BancoContext.cs",
+              "RelativeDocumentMoniker": "SistemaBancario\\Classes\\Contexto\\BancoContext.cs",
+              "ToolTip": "C:\\Proj-C#\\CSharp2026\\Banco de Dados\\Aula.01\\SistemaBancario\\SistemaBancario\\Classes\\Contexto\\BancoContext.cs*",
+              "RelativeToolTip": "SistemaBancario\\Classes\\Contexto\\BancoContext.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T22:13:57.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\CSharp2026\\Banco de Dados\\Aula.01\\SistemaBancario\\SistemaBancario\\Classes\\Entidades\\Banco.cs",
+              "RelativeDocumentMoniker": "SistemaBancario\\Classes\\Entidades\\Banco.cs",
+              "ToolTip": "C:\\Proj-C#\\CSharp2026\\Banco de Dados\\Aula.01\\SistemaBancario\\SistemaBancario\\Classes\\Entidades\\Banco.cs",
+              "RelativeToolTip": "SistemaBancario\\Classes\\Entidades\\Banco.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T00:05:58.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proj-C#\\CSharp2026\\Banco de Dados\\Aula.01\\SistemaBancario\\SistemaBancario\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaBancario\\Program.cs",
+              "ToolTip": "C:\\Proj-C#\\CSharp2026\\Banco de Dados\\Aula.01\\SistemaBancario\\SistemaBancario\\Program.cs",
+              "RelativeToolTip": "SistemaBancario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T23:55:05.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

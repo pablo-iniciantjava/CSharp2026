@@ -13,8 +13,8 @@ namespace ProjetoWeb01.Dados
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(
-                @"Server = (localdb)\MSSQLLocalDB; Database = Aluno;Trusted_Connection = True; TrustServerCertificate = True;"
-                );
+                @"Server=ECFP507D1319383\SQLEXPRESS03;Database=Aluno;Trusted_Connection=True;TrustServerCertificate=True;"
+            );
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FIC\\Documents\\CSharp2026\\Desenvolvimento Web\\Aula 02\\ProjetoWeb01\\AplicativoDesktop01\\AplicativoDesktop01.csproj": {}
+    "C:\\Proj-C#\\CSharp2026\\DesenvolvimentoWEB\\Projeto atualizado\\CSharp2026\\Desenvolvimento Web\\Aula 02\\ProjetoWeb01\\AplicativoDesktop01\\AplicativoDesktop01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FIC\\Documents\\CSharp2026\\Desenvolvimento Web\\Aula 02\\ProjetoWeb01\\AplicativoDesktop01\\AplicativoDesktop01.csproj": {
+    "C:\\Proj-C#\\CSharp2026\\DesenvolvimentoWEB\\Projeto atualizado\\CSharp2026\\Desenvolvimento Web\\Aula 02\\ProjetoWeb01\\AplicativoDesktop01\\AplicativoDesktop01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIC\\Documents\\CSharp2026\\Desenvolvimento Web\\Aula 02\\ProjetoWeb01\\AplicativoDesktop01\\AplicativoDesktop01.csproj",
+        "projectUniqueName": "C:\\Proj-C#\\CSharp2026\\DesenvolvimentoWEB\\Projeto atualizado\\CSharp2026\\Desenvolvimento Web\\Aula 02\\ProjetoWeb01\\AplicativoDesktop01\\AplicativoDesktop01.csproj",
         "projectName": "AplicativoDesktop01",
-        "projectPath": "C:\\Users\\FIC\\Documents\\CSharp2026\\Desenvolvimento Web\\Aula 02\\ProjetoWeb01\\AplicativoDesktop01\\AplicativoDesktop01.csproj",
+        "projectPath": "C:\\Proj-C#\\CSharp2026\\DesenvolvimentoWEB\\Projeto atualizado\\CSharp2026\\Desenvolvimento Web\\Aula 02\\ProjetoWeb01\\AplicativoDesktop01\\AplicativoDesktop01.csproj",
         "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FIC\\Documents\\CSharp2026\\Desenvolvimento Web\\Aula 02\\ProjetoWeb01\\AplicativoDesktop01\\obj\\",
+        "outputPath": "C:\\Proj-C#\\CSharp2026\\DesenvolvimentoWEB\\Projeto atualizado\\CSharp2026\\Desenvolvimento Web\\Aula 02\\ProjetoWeb01\\AplicativoDesktop01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
